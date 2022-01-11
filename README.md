@@ -9,7 +9,6 @@ CURRENT TECHNOLOGY LEATRNING : MACHINE LEARNING AND DATA SCIENCE
 
 LANGUAGE USED:
 <br/>
-<br/>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png"></code>
@@ -21,8 +20,11 @@ LANGUAGE USED:
 <br/>
 
 YOU CAN CONTACT ME THROUGH:
-
 <br/>
-<br/>
-<code><img height="40" width="40" src="https://www.linkedin.com/in/apoorva-sharma-8438b61b8/", src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png"><code/>
+<a href="https://www.linkedin.com/in/apoorva-sharma-8438b61b8/">
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="apoorvasharma0012@gmail.com">
+  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <br/>
