@@ -11,7 +11,6 @@ CURRENT TECHNOLOGY LEATRNING : MACHINE LEARNING AND DATA SCIENCE
 
 LANGUAGE USED:
 
-
 <br/>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -22,7 +21,7 @@ LANGUAGE USED:
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkbLUqaOyCuNwOB7L8AQjmdiJsPX2_RSTjMiLNC9fcYPcxfNY04rjVwOc4Qa2_0G_ZYI&usqp=CAU"></code>
 
 <br/>
-
+<br/>
 
 
 YOU CAN CONTACT ME THROUGH:
