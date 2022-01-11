@@ -5,9 +5,13 @@ CURRENTLY A THIRD YEAR STUDENT WHO IS PURSUING B.TECH(CSE) FROM GRAPHIC ERA HILL
 ![image](https://user-images.githubusercontent.com/73772500/148927174-8712b9c1-c9ed-4f04-aa1d-6f26879e2cae.png)
 
 
+
+
 CURRENT TECHNOLOGY LEATRNING : MACHINE LEARNING AND DATA SCIENCE
 
 LANGUAGE USED:
+
+
 <br/>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
@@ -20,11 +24,13 @@ LANGUAGE USED:
 <br/>
 
 YOU CAN CONTACT ME THROUGH:
+
+
 <br/>
 <a href="https://www.linkedin.com/in/apoorva-sharma-8438b61b8/">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
 </a>
 <a href="apoorvasharma0012@gmail.com">
-  <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="40px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 <br/>
