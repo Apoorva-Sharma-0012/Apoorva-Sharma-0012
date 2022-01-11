@@ -24,5 +24,5 @@ YOU CAN CONTACT ME THROUGH:
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://www.linkedin.com/in/apoorva-sharma-8438b61b8/"><code/>
+<code><img height="40" width="40" src="https://www.linkedin.com/in/apoorva-sharma-8438b61b8/", src="https://www.seekpng.com/png/detail/30-301979_logo-for-website-linkedin-logo-vector-free-download.png"><code/>
 <br/>
