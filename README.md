@@ -19,3 +19,10 @@ LANGUAGE USED:
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkbLUqaOyCuNwOB7L8AQjmdiJsPX2_RSTjMiLNC9fcYPcxfNY04rjVwOc4Qa2_0G_ZYI&usqp=CAU"></code>
 
 <br/>
+
+YOU CAN CONTACT ME THROUGH:
+
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://www.linkedin.com/in/apoorva-sharma-8438b61b8/"><code/>
+<br/>
